@@ -4,16 +4,16 @@
 
 ## Opening the Terminal
 
-1. Use **CMD + Spacebar**
-1. Start typing **'Terminal'**
-1. Hit **Enter**
+1. Use **Command + Space bar**
+2. Type **Terminal**
+3. Hit **Enter**
 
 ## Know your Roots
 
 The terminal is an application where you can see inside every directory that is on your computer. It can create and delete directories so it is important to know where you are so you don't delete your whole life.
 
-1. type **cd ~**
-1. type **pwd**
+4. Type **cd ~**
+5. Type **pwd**
 
 > cd ~ takes you back to your root directory.
 
@@ -25,8 +25,8 @@ A directory also known as a folder is where files can be organised and stored wi
 
 _example would be the name of the directory you want to make_
 
-1. type **mkdir example**
-1. type **cd example**
+6. Type **mkdir example**
+7. Type **cd example**
 
 > mkdir is creating a directory.
 
@@ -36,11 +36,11 @@ _example would be the name of the directory you want to make_
 
 _example would be the name of the file you want to make_
 
-1. type **touch example.js**
+8. Type **touch example.js**
 
 > touch creates a file in the directory you are in.
 
-### All Done
+### You have successfully created a JS file within a directory.
 
 If you need more information about the terminal application you can visit [Apple Support][link].
 
